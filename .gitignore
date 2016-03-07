@@ -14,7 +14,3 @@ Thumbs.db
 nbproject
 examples/credentials.php
 composer.lock
-vendor
-
-
-
